@@ -1,4 +1,4 @@
-fetch('C:\Users\ValKorp\Downloads/dashboard.json')
+fetch('https://github.com/VeToXwastaken/ejvalverde/blob/main/dashboard.json')
   .then(response => response.json())
   .then(data => {
     // Aquí puedes manipular los datos JSON y mostrarlos en la página
