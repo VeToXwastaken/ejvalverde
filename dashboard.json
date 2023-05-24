@@ -1,0 +1,526 @@
+{
+  "results": [
+    {
+      "filename": "Copia_de_Informe_sin_título.pdf",
+      "page_data": [
+        {
+          "page": 0,
+          "words": [
+            {
+              "text": "iCuales",
+              "xmin": 1053,
+              "ymin": 377,
+              "xmax": 1300,
+              "ymax": 446
+            },
+            {
+              "text": "son",
+              "xmin": 1325,
+              "ymin": 392,
+              "xmax": 1439,
+              "ymax": 435
+            },
+            {
+              "text": "los",
+              "xmin": 1469,
+              "ymin": 376,
+              "xmax": 1557,
+              "ymax": 435
+            },
+            {
+              "text": "5",
+              "xmin": 1584,
+              "ymin": 379,
+              "xmax": 1610,
+              "ymax": 432
+            },
+            {
+              "text": "departamentos",
+              "xmin": 1642,
+              "ymin": 376,
+              "xmax": 2157,
+              "ymax": 452
+            },
+            {
+              "text": "con",
+              "xmin": 2183,
+              "ymin": 392,
+              "xmax": 2295,
+              "ymax": 435
+            },
+            {
+              "text": "mas",
+              "xmin": 2325,
+              "ymin": 392,
+              "xmax": 2460,
+              "ymax": 435
+            },
+            {
+              "text": "hurtos",
+              "xmin": 2488,
+              "ymin": 377,
+              "xmax": 2700,
+              "ymax": 435
+            },
+            {
+              "text": "registrados",
+              "xmin": 1374,
+              "ymin": 452,
+              "xmax": 1745,
+              "ymax": 539
+            },
+            {
+              "text": "entre",
+              "xmin": 1772,
+              "ymin": 472,
+              "xmax": 1945,
+              "ymax": 523
+            },
+            {
+              "text": "2016",
+              "xmin": 1972,
+              "ymin": 466,
+              "xmax": 2127,
+              "ymax": 521
+            },
+            {
+              "text": "-",
+              "xmin": 2152,
+              "ymin": 498,
+              "xmax": 2171,
+              "ymax": 505
+            },
+            {
+              "text": "2020?",
+              "xmin": 2197,
+              "ymin": 466,
+              "xmax": 2385,
+              "ymax": 523
+            },
+            {
+              "text": "DEPARTAMENTO",
+              "xmin": 514,
+              "ymin": 684,
+              "xmax": 847,
+              "ymax": 715
+            },
+            {
+              "text": "total",
+              "xmin": 1535,
+              "ymin": 682,
+              "xmax": 1632,
+              "ymax": 716
+            },
+            {
+              "text": "hurtos",
+              "xmin": 1655,
+              "ymin": 682,
+              "xmax": 1790,
+              "ymax": 716
+            },
+            {
+              "text": "VALLE",
+              "xmin": 511,
+              "ymin": 770,
+              "xmax": 608,
+              "ymax": 795
+            },
+            {
+              "text": "DEL",
+              "xmin": 624,
+              "ymin": 770,
+              "xmax": 680,
+              "ymax": 797
+            },
+            {
+              "text": "CAUCA",
+              "xmin": 694,
+              "ymin": 770,
+              "xmax": 803,
+              "ymax": 797
+            },
+            {
+              "text": "10.462",
+              "xmin": 1738,
+              "ymin": 770,
+              "xmax": 1847,
+              "ymax": 795
+            },
+            {
+              "text": "2",
+              "xmin": 340,
+              "ymin": 861,
+              "xmax": 355,
+              "ymax": 883
+            },
+            {
+              "text": "ANTIOQUIA",
+              "xmin": 511,
+              "ymin": 861,
+              "xmax": 706,
+              "ymax": 891
+            },
+            {
+              "text": "9.537",
+              "xmin": 1757,
+              "ymin": 861,
+              "xmax": 1847,
+              "ymax": 886
+            },
+            {
+              "text": "3",
+              "xmin": 339,
+              "ymin": 951,
+              "xmax": 365,
+              "ymax": 974
+            },
+            {
+              "text": "CUNDINAMARCA",
+              "xmin": 512,
+              "ymin": 951,
+              "xmax": 791,
+              "ymax": 978
+            },
+            {
+              "text": "5.800",
+              "xmin": 1758,
+              "ymin": 951,
+              "xmax": 1847,
+              "ymax": 974
+            },
+            {
+              "text": "/",
+              "xmin": 338,
+              "ymin": 1043,
+              "xmax": 349,
+              "ymax": 1061
+            },
+            {
+              "text": "BOGOTA",
+              "xmin": 514,
+              "ymin": 1034,
+              "xmax": 650,
+              "ymax": 1069
+            },
+            {
+              "text": "D.C",
+              "xmin": 664,
+              "ymin": 1042,
+              "xmax": 713,
+              "ymax": 1068
+            },
+            {
+              "text": "5384",
+              "xmin": 1758,
+              "ymin": 1042,
+              "xmax": 1847,
+              "ymax": 1065
+            },
+            {
+              "text": "5.",
+              "xmin": 340,
+              "ymin": 1132,
+              "xmax": 362,
+              "ymax": 1156
+            },
+            {
+              "text": "SANTANDER",
+              "xmin": 512,
+              "ymin": 1132,
+              "xmax": 709,
+              "ymax": 1157
+            },
+            {
+              "text": "4.434",
+              "xmin": 1756,
+              "ymin": 1132,
+              "xmax": 1847,
+              "ymax": 1156
+            },
+            {
+              "text": "12.4%",
+              "xmin": 2175,
+              "ymin": 1304,
+              "xmax": 2276,
+              "ymax": 1333
+            },
+            {
+              "text": "29.4%",
+              "xmin": 2593,
+              "ymin": 1430,
+              "xmax": 2698,
+              "ymax": 1459
+            },
+            {
+              "text": "in",
+              "xmin": 2882,
+              "ymin": 1508,
+              "xmax": 2911,
+              "ymax": 1518
+            },
+            {
+              "text": "1",
+              "xmin": 1492,
+              "ymin": 1533,
+              "xmax": 1501,
+              "ymax": 1550
+            },
+            {
+              "text": "1-5/5",
+              "xmin": 1497,
+              "ymin": 1532,
+              "xmax": 1610,
+              "ymax": 1554
+            },
+            {
+              "text": "<",
+              "xmin": 1692,
+              "ymin": 1522,
+              "xmax": 1711,
+              "ymax": 1553
+            },
+            {
+              "text": "I",
+              "xmin": 1809,
+              "ymin": 1524,
+              "xmax": 1825,
+              "ymax": 1550
+            },
+            {
+              "text": "15.10",
+              "xmin": 1981,
+              "ymin": 1535,
+              "xmax": 2082,
+              "ymax": 1560
+            },
+            {
+              "text": "VALLE",
+              "xmin": 2938,
+              "ymin": 1511,
+              "xmax": 3041,
+              "ymax": 1541
+            },
+            {
+              "text": "DEL",
+              "xmin": 3056,
+              "ymin": 1511,
+              "xmax": 3120,
+              "ymax": 1541
+            },
+            {
+              "text": "CAUCA",
+              "xmin": 3133,
+              "ymin": 1511,
+              "xmax": 3255,
+              "ymax": 1541
+            },
+            {
+              "text": "ANTIOQUIA",
+              "xmin": 2938,
+              "ymin": 1576,
+              "xmax": 3149,
+              "ymax": 1608
+            },
+            {
+              "text": "total",
+              "xmin": 563,
+              "ymin": 1641,
+              "xmax": 634,
+              "ymax": 1669
+            },
+            {
+              "text": "hurtos",
+              "xmin": 655,
+              "ymin": 1641,
+              "xmax": 762,
+              "ymax": 1669
+            },
+            {
+              "text": "CUNDINAMARCA",
+              "xmin": 2940,
+              "ymin": 1642,
+              "xmax": 3243,
+              "ymax": 1672
+            },
+            {
+              "text": "1",
+              "xmin": 329,
+              "ymin": 1714,
+              "xmax": 335,
+              "ymax": 1733
+            },
+            {
+              "text": "12,5",
+              "xmin": 332,
+              "ymin": 1713,
+              "xmax": 393,
+              "ymax": 1740
+            },
+            {
+              "text": "mil",
+              "xmin": 411,
+              "ymin": 1712,
+              "xmax": 459,
+              "ymax": 1740
+            },
+            {
+              "text": "BOGOTA",
+              "xmin": 2941,
+              "ymin": 1698,
+              "xmax": 3094,
+              "ymax": 1737
+            },
+            {
+              "text": "D.C",
+              "xmin": 3109,
+              "ymin": 1708,
+              "xmax": 3164,
+              "ymax": 1737
+            },
+            {
+              "text": "SANTANDER",
+              "xmin": 2940,
+              "ymin": 1773,
+              "xmax": 3155,
+              "ymax": 1802
+            },
+            {
+              "text": "10",
+              "xmin": 363,
+              "ymin": 1866,
+              "xmax": 394,
+              "ymax": 1888
+            },
+            {
+              "text": "mil",
+              "xmin": 411,
+              "ymin": 1865,
+              "xmax": 459,
+              "ymax": 1893
+            },
+            {
+              "text": "16.3%",
+              "xmin": 2038,
+              "ymin": 1864,
+              "xmax": 2141,
+              "ymax": 1893
+            },
+            {
+              "text": "26.8%",
+              "xmin": 2473,
+              "ymin": 1972,
+              "xmax": 2578,
+              "ymax": 2001
+            },
+            {
+              "text": "7.5",
+              "xmin": 348,
+              "ymin": 2019,
+              "xmax": 394,
+              "ymax": 2043
+            },
+            {
+              "text": "mi",
+              "xmin": 395,
+              "ymin": 2017,
+              "xmax": 458,
+              "ymax": 2043
+            },
+            {
+              "text": "5",
+              "xmin": 381,
+              "ymin": 2172,
+              "xmax": 393,
+              "ymax": 2194
+            },
+            {
+              "text": "mil",
+              "xmin": 392,
+              "ymin": 2170,
+              "xmax": 458,
+              "ymax": 2198
+            },
+            {
+              "text": "2.5",
+              "xmin": 348,
+              "ymin": 2325,
+              "xmax": 394,
+              "ymax": 2351
+            },
+            {
+              "text": "mil",
+              "xmin": 411,
+              "ymin": 2323,
+              "xmax": 459,
+              "ymax": 2351
+            },
+            {
+              "text": "VALLE",
+              "xmin": 459,
+              "ymin": 2520,
+              "xmax": 558,
+              "ymax": 2544
+            },
+            {
+              "text": "DEL",
+              "xmin": 572,
+              "ymin": 2520,
+              "xmax": 627,
+              "ymax": 2546
+            },
+            {
+              "text": "CAUCA",
+              "xmin": 642,
+              "ymin": 2520,
+              "xmax": 749,
+              "ymax": 2544
+            },
+            {
+              "text": "CUNDINAMARCA",
+              "xmin": 998,
+              "ymin": 2520,
+              "xmax": 1274,
+              "ymax": 2546
+            },
+            {
+              "text": "SAN",
+              "xmin": 1570,
+              "ymin": 2520,
+              "xmax": 1627,
+              "ymax": 2544
+            },
+            {
+              "text": "TANDER",
+              "xmin": 1637,
+              "ymin": 2520,
+              "xmax": 1765,
+              "ymax": 2544
+            },
+            {
+              "text": "ANTIOQUIA",
+              "xmin": 773,
+              "ymin": 2570,
+              "xmax": 967,
+              "ymax": 2599
+            },
+            {
+              "text": "BOGOTA",
+              "xmin": 1298,
+              "ymin": 2562,
+              "xmax": 1433,
+              "ymax": 2596
+            },
+            {
+              "text": "D.",
+              "xmin": 1448,
+              "ymin": 2570,
+              "xmax": 1496,
+              "ymax": 2594
+            }
+          ],
+          "raw_text": "iCuales son los 5 departamentos con mas hurtos registrados entre 2016 - 2020? DEPARTAMENTO total hurtos VALLE DEL CAUCA 10.462 2 ANTIOQUIA 9.537 3 CUNDINAMARCA 5.800 / BOGOTA D.C 5384 5. SANTANDER 4.434 12.4% 29.4% in 1 1-5/5 < I 15.10 VALLE DEL CAUCA ANTIOQUIA total hurtos CUNDINAMARCA 1 12,5 mil BOGOTA D.C SANTANDER 10 mil 16.3% 26.8% 7.5 mi 5 mil 2.5 mil VALLE DEL CAUCA CUNDINAMARCA SAN TANDER ANTIOQUIA BOGOTA D. "
+        }
+      ]
+    }
+  ]
+}
